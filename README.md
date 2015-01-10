@@ -1,2 +1,1 @@
-# 2015-Documentation
-Documentation for the FRC 2015 Recycle Rush game
+[Click here to access the wiki](https://github.com/FRC-3637-Daleks/2015-Documentation/wiki)
